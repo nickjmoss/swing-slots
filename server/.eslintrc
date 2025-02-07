@@ -1,0 +1,28 @@
+{
+    "root": true,
+    "parser": "@typescript-eslint/parser",
+    "env": {
+        "node": true,
+        "browser": true
+    },
+    "parserOptions": {
+        "parser": "@typescript-eslint/parser"
+    },
+    "extends": [
+        "eslint:recommended",
+        "prettier"
+    ],
+    "plugins": ["@typescript-eslint", "prettier"],
+    "rules": {
+        "prettier/prettier": [
+            "error",
+            {
+                "singleQuote": true,
+                "tabWidth": 4
+            }
+        ],
+        "@typescript-eslint/no-explicit-any": "off",
+        "no-unused-vars": "off",
+        "@typescript-eslint/no-unused-vars": "error"
+    }
+}

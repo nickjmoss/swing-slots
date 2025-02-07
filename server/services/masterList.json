@@ -1,0 +1,1893 @@
+[
+    {
+        "clubId": "3e15af92-a962-4bf2-8b42-0535f62cce74",
+        "name": "South Mountain Golf Course",
+        "slug": "south-mountain-slco",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.49042,
+            "longitude": -111.85432,
+            "address": "1247 East Mike Weir Drive  ",
+            "city": "Draper",
+            "state": "Utah",
+            "postalCode": "84020",
+            "county": "Salt Lake County"
+        },
+        "website": "https://slco.org/golf/south-mountain/",
+        "courses": [
+            {
+                "courseId": "bc4c00f2-435a-4f4a-8d0a-c807d5f515f0",
+                "name": "South Mountain 18 Holes",
+                "bookingUrl": "https://www.chronogolf.com/club/south-mountain-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "9bb16c41-88fe-4f36-a84c-39f74f8aa5f2",
+                "name": "South Mountain 9 Holes",
+                "bookingUrl": "https://www.chronogolf.com/club/south-mountain-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "d7cbb808-fc97-4a34-a33f-6f11d1c736f8",
+        "name": "Riverbend Golf Course",
+        "slug": "riverbend-slco",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.51847,
+            "longitude": -111.92101,
+            "address": "12800 South 1040 West",
+            "city": "Riverton",
+            "state": "Utah",
+            "postalCode": "84065",
+            "county": "Salt Lake County"
+        },
+        "website": "https://slco.org/golf/riverbend/about-riverbend-golf-course/",
+        "courses": [
+            {
+                "courseId": "a10735ef-5ac1-4ad1-b5e8-8721c344a1ac",
+                "name": "Riverbend",
+                "bookingUrl": "https://www.chronogolf.com/club/riverbend-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "8ceb87d6-0afb-4361-a633-1b1d3f6e5805",
+                "name": "Riverbend back 9",
+                "bookingUrl": "https://www.chronogolf.com/club/riverbend-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "914ff5cc-8d63-4c19-b184-72e20fcb8039",
+        "name": "River Oaks Golf Course",
+        "slug": "river-oaks-golf-course-utah",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.584701175921,
+            "longitude": -111.917520638473,
+            "address": "9300 Riverside Dr",
+            "city": "Sandy",
+            "state": "Utah",
+            "postalCode": "84070",
+            "county": "Salt Lake County"
+        },
+        "website": "https://sandy.utah.gov/",
+        "courses": [
+            {
+                "courseId": "026599af-6569-4b0f-aaf9-aefedc607e3c",
+                "name": "River Oaks Golf Course",
+                "bookingUrl": "https://www.chronogolf.com/club/river-oaks-golf-course-utah",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "79c03256-be52-4e3d-aba8-9c64df6e12b2",
+                "name": "River Oaks Opposite 9 Holes",
+                "bookingUrl": "https://www.chronogolf.com/club/river-oaks-golf-course-utah",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "ce2befcd-7faf-49a7-ae51-fe3619a77e17",
+        "name": "Mountain View Golf Course",
+        "slug": "mountain-view-slco",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.59371,
+            "longitude": -111.95185,
+            "address": "2400 West 8660 South (Gardner Lane)",
+            "city": "West Jordan",
+            "state": "Utah",
+            "postalCode": "84088",
+            "county": "Salt Lake County"
+        },
+        "website": "https://slco.org/golf/mountain-view/",
+        "courses": [
+            {
+                "courseId": "bd12a75f-50ad-4ca8-8d18-520e40b22551",
+                "name": "Mountain View Golf Course",
+                "bookingUrl": "https://www.chronogolf.com/club/mountain-view-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "591296f8-efa2-4f8d-a746-4b5d91a8f38a",
+                "name": "Mountain View Only Front 9",
+                "bookingUrl": "https://www.chronogolf.com/club/mountain-view-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            },
+            {
+                "courseId": "3b6d3bcf-4af4-4deb-a715-acce88244790",
+                "name": "Mountain View Only Back 9",
+                "bookingUrl": "https://www.chronogolf.com/club/mountain-view-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "99cc98d7-03aa-400c-a8b6-c5e5f3665ca4",
+        "name": "Old Mill Golf Course",
+        "slug": "old-mill-slco",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.63857,
+            "longitude": -111.79954,
+            "address": "6080 S. Wasatch Blvd",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "postalCode": "84121",
+            "county": "Salt Lake County"
+        },
+        "website": "https://slco.org/golf/old-mill/about-old-mill-golf-course/",
+        "courses": [
+            {
+                "courseId": "51eb43b1-d054-46e6-9dc6-dba30a6f9906",
+                "name": "Old Mill Golf Course",
+                "bookingUrl": "https://www.chronogolf.com/club/old-mill-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "dd49962c-d6a9-4150-a701-9e547902e664",
+                "name": "Old Mill Back 9",
+                "bookingUrl": "https://www.chronogolf.com/club/old-mill-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "4ea882f1-109e-4a6b-8c74-6bfc13f1eb1e",
+        "name": "Mick Riley Golf Course",
+        "slug": "mick-riley-slco",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.66201,
+            "longitude": -111.87863,
+            "address": "421 East Vine Street",
+            "city": "Murray",
+            "state": "Utah",
+            "postalCode": "84107",
+            "county": "Salt Lake County"
+        },
+        "website": "https://slco.org/golf/mick-riley/",
+        "courses": [
+            {
+                "courseId": "2c99f9f7-e373-47d5-8b16-dd15f332fe57",
+                "name": "Regulation 9",
+                "bookingUrl": "https://www.chronogolf.com/club/mick-riley-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            },
+            {
+                "courseId": "b6cf292e-8323-426d-828e-f3e55a112b8f",
+                "name": "Par 3 Course",
+                "bookingUrl": "https://www.chronogolf.com/club/mick-riley-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "566ced7b-bc15-494f-94f2-cc2f162c8162",
+        "name": "Meadow Brook Golf Course",
+        "slug": "meadow-brook-slco",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.68127,
+            "longitude": -111.92747,
+            "address": "4197 South 1300 West",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "postalCode": "84123",
+            "county": "Salt Lake County"
+        },
+        "website": "https://slco.org/golf/meadow-brook/",
+        "courses": [
+            {
+                "courseId": "c3155ad4-2f72-4b4d-80ec-a3b3c08a89db",
+                "name": "Meadow Brook",
+                "bookingUrl": "https://www.chronogolf.com/club/meadow-brook-slco",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "clubId": "2c86e33d-eb5d-4828-9dc5-6f395975d476",
+        "name": "Nibley Park Golf Course",
+        "slug": "nibley-park-golf-course",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.710829,
+            "longitude": -111.871271,
+            "address": "2780 S 700 E",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "postalCode": "84106",
+            "county": "Salt Lake County"
+        },
+        "website": "http://www.slc-golf.com",
+        "courses": [
+            {
+                "courseId": "997cd01f-4ce8-4462-a459-594762efb606",
+                "name": "Nibley Park",
+                "bookingUrl": "https://www.chronogolf.com/club/nibley-park-golf-course",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "51013801-2e79-47eb-b0f9-49da4212e876",
+        "name": "Mountain Dell Golf Course",
+        "slug": "mountain-dell-golf-club",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.719225,
+            "longitude": -111.86536,
+            "address": "Interstate I-80 Exit #134 Parleys Canyon",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "postalCode": "84109",
+            "county": "Salt Lake County"
+        },
+        "website": "https://www.slc-golf.com/mountaindell/",
+        "courses": [
+            {
+                "courseId": "2c162b65-6803-4bad-9a21-4c1ca88bb242",
+                "name": "Lake",
+                "bookingUrl": "https://www.chronogolf.com/club/mountain-dell-golf-club",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "bd6e3c42-7ae5-4d97-b6d0-60ebf9957a7e",
+                "name": "Canyon",
+                "bookingUrl": "https://www.chronogolf.com/club/mountain-dell-golf-club",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "77dca1a2-edae-47d2-a202-a1e9391cc305",
+                "name": "Lake Back 9 (9-Holes ONLY)",
+                "bookingUrl": "https://www.chronogolf.com/club/mountain-dell-golf-club",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "011bf6d7-60ef-489c-851e-3eefea9f06a0",
+        "name": "Forest Dale Golf Course",
+        "slug": "forest-dale-golf-course",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.719225,
+            "longitude": -111.86536,
+            "address": "2375 S 900 E",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "postalCode": "84106",
+            "county": "Salt Lake County"
+        },
+        "website": "http://www.slc-golf.com",
+        "courses": [
+            {
+                "courseId": "41ea25ca-ffcb-4f14-a86d-de0ef84510e0",
+                "name": "Forest Dale",
+                "bookingUrl": "https://www.chronogolf.com/club/forest-dale-golf-course",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "d2b39c47-3d5b-4955-9709-685061c7dbfa",
+        "name": "Glendale Golf Course",
+        "slug": "glendale-golf-course",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.725898,
+            "longitude": -111.932676,
+            "address": "1560 W 2100 S",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "postalCode": "84119",
+            "county": "Salt Lake County"
+        },
+        "website": "http://www.slc-golf.com/glendale.html",
+        "courses": [
+            {
+                "courseId": "547936f8-0f45-4bea-b557-d15a4de485ad",
+                "name": "Glendale (9 or 18 Holes)",
+                "bookingUrl": "https://www.chronogolf.com/club/glendale-golf-course",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "92260e9d-a76a-4dc3-9caa-147be81b97f5",
+        "name": "Bonneville Golf Course",
+        "slug": "bonneville-golf-course",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.748605,
+            "longitude": -111.829236,
+            "address": "954 Connor St",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "postalCode": "84108",
+            "county": "Salt Lake County"
+        },
+        "website": "http://www.slc-golf.com",
+        "courses": [
+            {
+                "courseId": "bc27ab7a-6218-4b61-9aa8-0838f7c44ce3",
+                "name": "Bonneville",
+                "bookingUrl": "https://www.chronogolf.com/club/bonneville-golf-course",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "caa8142a-4a42-482b-8d35-4239ce26f7b0",
+                "name": "Bonneville 10th Tee",
+                "bookingUrl": "https://www.chronogolf.com/club/bonneville-golf-course",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "bbd94e88-ca9f-4dda-97bb-60c469949b08",
+        "name": "Rose Park Golf Course",
+        "slug": "rose-park-golf-course",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.799454,
+            "longitude": -111.939148,
+            "address": "1386 N Redwood Rd",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "postalCode": "84116",
+            "county": "Salt Lake County"
+        },
+        "website": "http://www.slc-golf.com",
+        "courses": [
+            {
+                "courseId": "19a5558e-3821-4935-b6bd-0cbc99693d91",
+                "name": "Rose Park GC (18 or 9)",
+                "bookingUrl": "https://www.chronogolf.com/club/rose-park-golf-course",
+                "bookingWindow": 7,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "f899015b-2109-4028-8640-d670ada581e4",
+                "name": "Rose Park Back 9",
+                "bookingUrl": "https://www.chronogolf.com/club/rose-park-golf-course",
+                "bookingWindow": 7,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "547eea14-ec8f-4f1a-a5f9-49c827765f5d",
+        "name": "Eaglewood Golf Course",
+        "slug": "eaglewood-golf-course",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.835024,
+            "longitude": -111.885563,
+            "address": "1110 E Eaglewood Dr",
+            "city": "North Salt Lake",
+            "state": "Utah",
+            "postalCode": "84054",
+            "county": "Davis County"
+        },
+        "website": "http://www.eaglewoodgolf.com",
+        "courses": [
+            {
+                "courseId": "9cb01bcc-0813-419a-a493-459540a3d29e",
+                "name": "Eaglewood (Front Nine - 9 or 18 Holes)",
+                "bookingUrl": "https://www.chronogolf.com/club/eaglewood-golf-course",
+                "bookingWindow": 8,
+                "numOfHoles": 9
+            },
+            {
+                "courseId": "65a878b5-79d6-45fe-987d-50daac8c5479",
+                "name": "Eaglewood (Back Nine - 9 Holes Only)",
+                "bookingUrl": "https://www.chronogolf.com/club/eaglewood-golf-course",
+                "bookingWindow": 8,
+                "numOfHoles": 9
+            },
+            {
+                "courseId": "389e586e-6945-4b22-94e6-691cb51e0d4c",
+                "name": "Simulator - Left Bay (Right and Left Hand)",
+                "bookingUrl": "https://www.chronogolf.com/club/eaglewood-golf-course",
+                "bookingWindow": 8,
+                "numOfHoles": 1
+            },
+            {
+                "courseId": "be0eba52-7bc8-4d1c-b5e7-b007cce2a7c2",
+                "name": "Simulator - Right Bay (Right Hand Only)",
+                "bookingUrl": "https://www.chronogolf.com/club/eaglewood-golf-course",
+                "bookingWindow": 8,
+                "numOfHoles": 1
+            }
+        ]
+    },
+    {
+        "clubId": "8c8d4e3f-ae10-4f17-b86e-758194357e7b",
+        "name": "Lakeside Golf Course",
+        "slug": "lakeside-golf-course-utah-west-bountiful",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.9022326,
+            "longitude": -111.911401,
+            "address": "1201 N 1100 W",
+            "city": "West Bountiful",
+            "state": "Utah",
+            "postalCode": "84087",
+            "county": "Davis County"
+        },
+        "website": "https://lakesidegolfcourse.com/",
+        "courses": [
+            {
+                "courseId": "3db9a96d-44d7-45ca-915f-133edb9ac54b",
+                "name": "Lakeside Main",
+                "bookingUrl": "https://www.chronogolf.com/club/lakeside-golf-course-utah-west-bountiful",
+                "bookingWindow": 2,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "clubId": "407e0f8b-54b3-40ec-ab52-d2c21dbefe75",
+        "name": "The Ledges Golf Club",
+        "slug": "the-ledges-golf-club",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 37.198025,
+            "longitude": -113.6188553,
+            "address": "1585 Ledges Parkway",
+            "city": "St. George",
+            "state": "Utah",
+            "postalCode": "84770",
+            "county": "Washington County"
+        },
+        "website": "http://www.ledges.com",
+        "courses": [
+            {
+                "courseId": "7afad2b1-2316-42b8-8fb4-d63de579e1d0",
+                "name": "The Ledges",
+                "bookingUrl": "https://www.chronogolf.com/club/the-ledges-golf-club",
+                "bookingWindow": 90,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "clubId": "c5992141-a45e-4285-af66-e87ae8af6ae5",
+        "name": "Black Desert Resort",
+        "slug": "black-desert-resort",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 37.162546,
+            "longitude": -113.6471038,
+            "address": "1500 E Black Desert Drive",
+            "city": "Ivins",
+            "state": "Utah",
+            "postalCode": "84738",
+            "county": "Washington County"
+        },
+        "website": "https://www.blackdesertresort.com/",
+        "courses": [
+            {
+                "courseId": "ec40e1b2-7ac1-443b-a515-35176712f97b",
+                "name": "Black Desert Resort",
+                "bookingUrl": "https://www.chronogolf.com/club/black-desert-resort",
+                "bookingWindow": 60,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "name": "The Golf Course at Sand Hollow Resort",
+        "slug": "sand-hollow-resort",
+        "software": "foreUp",
+        "website": "https://sandhollowresort.com/",
+        "locationData": {
+            "latitude": 39.9107993,
+            "longitude": -111.5814445,
+            "address": "5662 West Clubhouse Dr",
+            "city": "Hurricane",
+            "state": "Utah",
+            "postalCode": "84737",
+            "county": "Washington County"
+        },
+        "courses": [
+            {
+                "name": "The Golf Course at Sand Hollow Resort",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/19615/1935/",
+                "courseId": "1935",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "19615"
+    },
+    {
+        "clubId": "811eea58-d4ce-4e1a-86a8-4c5a7a126ffa",
+        "name": "Palisade State Park Golf Course",
+        "slug": "palisade-state-park-golf-course",
+        "software": "teeItUp",
+        "locationData": {
+            "latitude": 39.197742,
+            "longitude": -111.679989,
+            "address": "2200 Palisade Rd",
+            "city": "Sterling",
+            "state": "Utah",
+            "postalCode": "84665",
+            "county": "Sanpete County"
+        },
+        "website": "https://aspira-management-company.book-v2.teeitup.golf/?course=6847&",
+        "courses": [
+            {
+                "courseId": "d4e40bac-d93d-4723-b8c1-4ecc673c3a69",
+                "name": "Palisade State Park",
+                "bookingUrl": "https://www.chronogolf.com/club/palisade-state-park-golf-course",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "name": "Gladstan Golf Course",
+        "slug": "gladstan-golf-course",
+        "software": "foreUp",
+        "website": "https://gladstan.com/",
+        "locationData": {
+            "latitude": 40.010404,
+            "longitude": -111.684911,
+            "address": "1 GladStan Dr",
+            "city": "Payson",
+            "state": "Utah",
+            "postalCode": "84651",
+            "county": "Utah County"
+        },
+        "courses": [
+            {
+                "name": "Gladstan Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/index/18922",
+                "courseId": "636",
+                "bookingWindow": 4
+            }
+        ],
+        "clubId": "18922"
+    },
+    {
+        "name": "Spanish Oaks Golf Course",
+        "slug": "spanish-oaks-golf-course",
+        "software": "foreUp",
+        "website": "https://www.theoaksatsf.com/book_tee_time/index.php",
+        "locationData": {
+            "latitude": 40.081231,
+            "longitude": -111.602803,
+            "address": "2300 E Powerhouse Rd",
+            "city": "Spanish Fork",
+            "state": "Utah",
+            "postalCode": "84660",
+            "county": "Utah County"
+        },
+        "courses": [
+            {
+                "name": "The Oaks at Spanish Fork",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/21698/8633",
+                "courseId": "8633",
+                "bookingWindow": 1
+            }
+        ],
+        "clubId": "21698"
+    },
+    {
+        "name": "Carbon Country Club",
+        "slug": "carbon-country-club",
+        "software": "foreUp",
+        "website": "http://www.carboncountryclub.com",
+        "locationData": {
+            "latitude": 39.647788,
+            "longitude": -110.86014,
+            "address": "3055 N Hwy 50-6",
+            "city": "Helper",
+            "state": "Utah",
+            "postalCode": "84526",
+            "county": "Carbon County"
+        },
+        "courses": [
+            {
+                "name": "Carbon Country Club",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/22113/9906",
+                "courseId": "9906",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "22113"
+    },
+    {
+        "name": "Millsite Golf Course",
+        "slug": "millsite-golf-course",
+        "software": "foreUp",
+        "website": "http://www.millsitegolfcourse.com",
+        "locationData": {
+            "latitude": 39.086685,
+            "longitude": -111.147137,
+            "address": "Canyon Rd",
+            "city": "Ferron",
+            "state": "Utah",
+            "postalCode": "84523",
+            "county": "Emery County"
+        },
+        "courses": [
+            {
+                "name": "Millsite Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/21605/8326",
+                "courseId": "8326",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "21605"
+    },
+    {
+        "name": "Canyon Hills Golf Course",
+        "slug": "canyon-hills-golf-course",
+        "software": "foreUp",
+        "website": "https://canyonhillsgolf.com/",
+        "locationData": {
+            "latitude": 39.35496,
+            "longitude": -112.228674,
+            "address": "1200 E Canyon Rd",
+            "city": "Nephi",
+            "state": "Utah",
+            "postalCode": "84648",
+            "county": "Juab County"
+        },
+        "courses": [
+            {
+                "name": "Canyon Hills Golf Course",
+                "bookingUrl": "http://foreupsoftware.com/index.php/booking/index/19566",
+                "courseId": "1842",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "19566"
+    },
+    {
+        "name": "Hobble Creek Golf Course",
+        "slug": "hobble-creek-golf-course",
+        "software": "foreUp",
+        "website": "https://www.springville.org/golf/book-tee-time/",
+        "locationData": {
+            "latitude": 40.1536,
+            "longitude": -111.576048,
+            "address": "E Hobble Creek Canyon Rd",
+            "city": "Springville",
+            "state": "Utah",
+            "postalCode": "84663",
+            "county": "Utah County"
+        },
+        "courses": [
+            {
+                "name": "Hobble Creek Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/index/18896",
+                "courseId": "580",
+                "bookingWindow": 1
+            }
+        ],
+        "clubId": "18896"
+    },
+    {
+        "name": "Timpanogos Golf Club",
+        "slug": "timpanogos-golf-club",
+        "software": "foreUp",
+        "website": "https://www.timpanogosgolf.com/book-a-tee-time/",
+        "locationData": {
+            "latitude": 40.208618,
+            "longitude": -111.644083,
+            "address": "1860 SE Bay Blvd",
+            "city": "Provo",
+            "state": "Utah",
+            "postalCode": "84606",
+            "county": "Utah County"
+        },
+        "courses": [
+            {
+                "name": "Timpanogos Golf Club",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/6279/49",
+                "courseId": "49",
+                "bookingWindow": 8
+            }
+        ],
+        "clubId": "6279"
+    },
+    {
+        "name": "Sleepy Ridge Golf Club",
+        "slug": "sleepy-ridge-golf-club",
+        "software": "foreUp",
+        "website": "http://www.sleepyridgegolf.com",
+        "locationData": {
+            "latitude": 40.284928,
+            "longitude": -111.742008,
+            "address": "700 S Sleepy Ridge Dr",
+            "city": "Orem",
+            "state": "Utah",
+            "postalCode": "84057",
+            "county": "Utah County"
+        },
+        "courses": [
+            {
+                "name": "The Links at Sleepy Ridge",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/19396/1726",
+                "courseId": "1726",
+                "bookingWindow": 8
+            }
+        ],
+        "clubId": "19396"
+    },
+    {
+        "name": "Talons Cove at Saratoga Springs",
+        "slug": "talons-cove-at-saratoga-springs",
+        "software": "foreUp",
+        "website": "http://www.talonscove.com",
+        "locationData": {
+            "latitude": 40.344475,
+            "longitude": -111.916224,
+            "address": "2220 Talons Cove Dr",
+            "city": "Saratoga Springs",
+            "state": "Utah",
+            "postalCode": "84045",
+            "county": "Utah County"
+        },
+        "courses": [
+            {
+                "name": "Talons Cove Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/19027/788",
+                "courseId": "788",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "19027"
+    },
+    {
+        "clubId": 15381,
+        "name": "Cedar Hills Golf Club",
+        "slug": "cedar-hills-golf-club",
+        "software": "memberSports",
+        "locationData": {
+            "latitude": 40.425224,
+            "longitude": -111.76059,
+            "address": "10640 Clubhouse Drive",
+            "address2": "",
+            "city": "Cedar Hills",
+            "state": "UT",
+            "postalCode": "84062",
+            "county": "Utah County"
+        },
+        "website": "cedarhillsgolfutah.com/",
+        "courses": [
+            {
+                "courseId": 18891,
+                "name": "Cedar Hills",
+                "bookingWindow": 7,
+                "numOfHoles": 18,
+                "bookingUrl": "https://app.membersports.com/tee-times/15381/18891/0"
+            },
+            {
+                "courseId": 20578,
+                "name": "Short Course",
+                "bookingWindow": 7,
+                "numOfHoles": 18,
+                "bookingUrl": "https://app.membersports.com/tee-times/15381/20578/0"
+            }
+        ]
+    },
+    {
+        "name": "Fox Hollow Golf Course",
+        "slug": "fox-hollow-golf-course-utah",
+        "software": "foreUp",
+        "website": "http://www.foxhollowutah.com",
+        "locationData": {
+            "latitude": 40.404703,
+            "longitude": -111.790307,
+            "address": "1400 N 200 E",
+            "city": "American Fork",
+            "state": "Utah",
+            "postalCode": "84003",
+            "county": "Utah County"
+        },
+        "courses": [
+            {
+                "name": "Fox Hollow Golf Club (UT)",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/22037/9672",
+                "courseId": "9672",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "22037"
+    },
+    {
+        "name": "Thanksgiving Point Golf Club",
+        "slug": "thanksgiving-point-golf-club",
+        "software": "foreUp",
+        "website": "https://www.thanksgivingpointgolfclub.com/",
+        "locationData": {
+            "latitude": 40.418972,
+            "longitude": -111.872046,
+            "address": "2095 N Frontage Rd",
+            "city": "Lehi",
+            "state": "Utah",
+            "postalCode": "84043",
+            "county": "Utah County"
+        },
+        "courses": [
+            {
+                "name": "Thanksgiving Point Golf Club",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/19645/2034?wmode=opaque",
+                "courseId": "2034",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "19645"
+    },
+    {
+        "name": "The Ranches Golf Club",
+        "slug": "the-ranches-golf-club",
+        "software": "foreUp",
+        "website": "http://www.theranchesgolfclub.com",
+        "locationData": {
+            "latitude": 40.4312125,
+            "longitude": -111.8963215,
+            "address": "4128 E Clubhouse Dr",
+            "city": "Eagle Mountain",
+            "state": "Utah",
+            "postalCode": "84043",
+            "county": "Utah County"
+        },
+        "courses": [
+            {
+                "name": "The Ranches",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/19613/1934",
+                "courseId": "1934",
+                "bookingWindow": 4
+            }
+        ],
+        "clubId": "19613"
+    },
+    {
+        "clubId": "8d0901a8-b8eb-4e11-87ec-54bf93efc1d5",
+        "name": "Soldier Hollow Golf Course",
+        "slug": "soldier-hollow-golf-course",
+        "software": "teeItUp",
+        "locationData": {
+            "latitude": 40.481851,
+            "longitude": -111.5011,
+            "address": "1370 West Soldier Hollow Ln",
+            "city": "Midway",
+            "state": "Utah",
+            "postalCode": "84049",
+            "county": "Wasatch County"
+        },
+        "website": "https://www.soldierhollowgolf.com/",
+        "courses": [
+            {
+                "courseId": "e5a9396f-a8cb-4fbc-83d3-02a5dc1b3d1f",
+                "name": "Silver",
+                "bookingUrl": "https://www.chronogolf.com/club/soldier-hollow-golf-club",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "743e3db1-2489-4d9c-bc1b-4dc940cdb09a",
+                "name": "Gold",
+                "bookingUrl": "https://www.chronogolf.com/club/soldier-hollow-golf-club",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "name": "Homestead Golf Club",
+        "slug": "homestead-golf-club-utah",
+        "software": "foreUp",
+        "website": "https://playhomesteadgc.com/",
+        "locationData": {
+            "latitude": 40.522368,
+            "longitude": -111.487631,
+            "address": "700 N Homestead Dr",
+            "city": "Midway",
+            "state": "Utah",
+            "postalCode": "84049",
+            "county": "Wasatch County"
+        },
+        "courses": [
+            {
+                "name": "Homestead Golf Club",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/20291/4315",
+                "courseId": "4315",
+                "bookingWindow": 14
+            }
+        ],
+        "clubId": "20291"
+    },
+    {
+        "clubId": "c0a74fc1-71ef-423f-a539-7adc2453d7b4",
+        "name": "Wasatch Mountain Golf Course",
+        "slug": "wasatch-mountain-golf-course",
+        "software": "teeItUp",
+        "locationData": {
+            "latitude": 40.541829,
+            "longitude": -111.493142,
+            "address": "1281 Warm Springs Dr",
+            "city": "Midway",
+            "state": "Utah",
+            "postalCode": "84049",
+            "county": "Wasatch County"
+        },
+        "website": "https://stateparks.utah.gov/golf/wasatch/teetime/",
+        "courses": [
+            {
+                "courseId": "428dc5df-1fb3-4dca-bb88-53c8473d4b51",
+                "name": "Mountain",
+                "bookingUrl": "https://www.chronogolf.com/club/wasatch-mountain-state-park",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            },
+            {
+                "courseId": "8944bcde-0baa-494f-8865-9fd78a2bc612",
+                "name": "Lake",
+                "bookingUrl": "https://www.chronogolf.com/club/wasatch-mountain-state-park",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "clubId": "099e0a81-e839-4b32-ac32-f2765f9528af",
+        "name": "Glenmoor Golf Course",
+        "slug": "glenmoor-golf-course",
+        "software": "courseProvided",
+        "locationData": {
+            "latitude": 40.571864,
+            "longitude": -112.005188,
+            "address": "9800 S 4800 W",
+            "city": "South Jordan",
+            "state": "Utah",
+            "postalCode": "84095",
+            "county": "Salt Lake County"
+        },
+        "website": "https://golfglenmoor.com/",
+        "courses": [
+            {
+                "courseId": "76368d22-dd44-4975-9fc1-57f2fabce604",
+                "name": "Glenmoor",
+                "bookingUrl": "https://www.chronogolf.com/club/glenmoor-golf-course",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "clubId": 15426,
+        "name": "Park City Golf Course",
+        "slug": "park-city-golf-course",
+        "software": "memberSports",
+        "locationData": {
+            "latitude": 40.66212,
+            "longitude": -111.51413,
+            "address": "1541 Thaynes Canyon Drive",
+            "address2": "",
+            "city": "Park City",
+            "state": "UT",
+            "postalCode": "84060",
+            "county": "Summit County"
+        },
+        "website": "http://parkcity.org/departments/park-city-golf-club",
+        "courses": [
+            {
+                "courseId": 18944,
+                "name": "Park City",
+                "bookingWindow": 9,
+                "numOfHoles": 18,
+                "bookingUrl": "https://app.membersports.com/tee-times/15426/18944/0"
+            }
+        ]
+    },
+    {
+        "name": "Murray Parkway Golf Course",
+        "slug": "murray-parkway-golf-course",
+        "software": "foreUp",
+        "website": "https://parkwaygolf.org/",
+        "locationData": {
+            "latitude": 40.633858,
+            "longitude": -111.921736,
+            "address": "6345 Murray Pkwy Ave",
+            "city": "Murray",
+            "state": "Utah",
+            "postalCode": "84123",
+            "county": "Salt Lake County"
+        },
+        "courses": [
+            {
+                "name": "Murray Parkway Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/6263/244",
+                "courseId": "244",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "6263"
+    },
+    {
+        "name": "Oquirrh Hills Golf Course",
+        "slug": "oquirrh-hills-golf-course",
+        "software": "foreUp",
+        "website": "http://www.thehillsgolf.com/",
+        "locationData": {
+            "latitude": 40.530512,
+            "longitude": -112.283532,
+            "address": "7th St & Edgemont",
+            "city": "Tooele",
+            "state": "Utah",
+            "postalCode": "84074",
+            "county": "Tooele County"
+        },
+        "courses": [
+            {
+                "name": "Oquirrh Hills Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/22325/10403",
+                "courseId": "10403",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "22325"
+    },
+    {
+        "name": "The Ridge Golf Course",
+        "slug": "the-ridge-golf-course",
+        "software": "foreUp",
+        "website": "https://www.golftheridgegc.com/golf/tee-times",
+        "locationData": {
+            "latitude": 40.660514,
+            "longitude": -112.034082,
+            "address": "5055 S Westridge Blvd",
+            "city": "Salt Lake City",
+            "state": "Utah",
+            "postalCode": "84118",
+            "county": "Salt Lake County"
+        },
+        "courses": [
+            {
+                "name": "The Ridge Golf Club",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/22131",
+                "courseId": "9898",
+                "bookingWindow": 8
+            }
+        ],
+        "clubId": "22131"
+    },
+    {
+        "clubId": "e38ba5f2-0ec3-4ea9-b6ff-de5f078bebf3",
+        "name": "The Jeremy Golf & Country Club",
+        "slug": "the-jeremy-golf-country-club",
+        "software": "chrono",
+        "locationData": {
+            "latitude": 40.75924,
+            "longitude": -111.5748,
+            "address": "8770 N Jeremy Rd",
+            "city": "Park City",
+            "state": "Utah",
+            "postalCode": "84098",
+            "county": "Summit County"
+        },
+        "website": "http://www.thejeremy.com",
+        "courses": [
+            {
+                "courseId": "e9aadd1e-4424-406e-81f9-56c014d05579",
+                "name": "The Jeremy",
+                "bookingUrl": "https://www.chronogolf.com/club/the-jeremy-golf-country-club",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "name": "Stonebridge Golf Club",
+        "slug": "stonebridge-golf-club",
+        "software": "foreUp",
+        "website": "https://www.golfstonebridgeutah.com/golf/tee-times",
+        "locationData": {
+            "latitude": 40.7184261,
+            "longitude": -111.9941537,
+            "address": "4415 Links Dr",
+            "city": "West Valley City",
+            "state": "Utah",
+            "postalCode": "84120",
+            "county": "Salt Lake County"
+        },
+        "courses": [
+            {
+                "name": "Stonebridge Golf Club (UT)",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/22130",
+                "courseId": "9912",
+                "bookingWindow": 9
+            }
+        ],
+        "clubId": "22130"
+    },
+    {
+        "clubId": "4839f854-f204-43c3-af46-2c7b7df3c009",
+        "name": "Green River Golf Course",
+        "slug": "green-river-golf-course",
+        "software": "teeItUp",
+        "locationData": {
+            "latitude": 38.988611,
+            "longitude": -110.157798,
+            "address": "450 S Green River Blvd",
+            "city": "Green River",
+            "state": "Utah",
+            "postalCode": "84525",
+            "county": "Emery County"
+        },
+        "website": "https://stateparks.utah.gov/golf/green-river/reserve/",
+        "courses": [
+            {
+                "courseId": "fb3dd791-0940-4ac6-9080-3c9b619cfdec",
+                "name": "Green River",
+                "bookingUrl": "https://www.chronogolf.com/club/green-river-golf-course",
+                "bookingWindow": 14,
+                "numOfHoles": 9
+            }
+        ]
+    },
+    {
+        "name": "Stansbury Park Golf Course",
+        "slug": "stansbury-park-golf-course",
+        "software": "foreUp",
+        "website": "https://stansburypark.org/golfcourse/",
+        "locationData": {
+            "latitude": 40.642095,
+            "longitude": -112.28846,
+            "address": "1 Country Club Dr",
+            "city": "Stans Bury",
+            "state": "Utah",
+            "postalCode": "84074",
+            "county": "Tooele County"
+        },
+        "courses": [
+            {
+                "name": "Stansbury Park Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/6315/51",
+                "courseId": "51",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "6315"
+    },
+    {
+        "name": "Bountiful Ridge Golf Club",
+        "slug": "bountiful-ridge-golf-club",
+        "software": "foreUp",
+        "website": "https://bountifulridgegolf.com/",
+        "locationData": {
+            "latitude": 40.8621032,
+            "longitude": -111.8547995,
+            "address": "2430 S Bountiful Blvd",
+            "city": "Bountiful",
+            "state": "Utah",
+            "postalCode": "84010",
+            "county": "Davis County"
+        },
+        "courses": [
+            {
+                "name": "Bountiful Ridge Golf Course",
+                "bookingUrl": "http://foreupsoftware.com/index.php/booking/index/18950",
+                "courseId": "674",
+                "bookingWindow": 2
+            }
+        ],
+        "clubId": "18950"
+    },
+    {
+        "name": "Lakeside Golf Course",
+        "slug": "lakeside-golf-course-utah",
+        "software": "foreUp",
+        "website": "https://lakesidegolfcourse.com/",
+        "locationData": {
+            "latitude": 40.901724,
+            "longitude": -111.911873,
+            "address": "1201 N 1100 W",
+            "city": "West Bountiful",
+            "state": "Utah",
+            "postalCode": "84087",
+            "county": "Davis County"
+        },
+        "courses": [
+            {
+                "name": "Lakeside Golf Course (UT)",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/20040/3325",
+                "courseId": "3325",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "20040"
+    },
+    {
+        "name": "Roosevelt Golf Course",
+        "slug": "roosevelt-golf-course-utah",
+        "software": "foreUp",
+        "website": "https://golfrooseveltcity.com/",
+        "locationData": {
+            "latitude": 40.309114,
+            "longitude": -110.013313,
+            "address": "1155 Club House Dr",
+            "city": "Roosevelt",
+            "state": "Utah",
+            "postalCode": "84066",
+            "county": "Duchesne County"
+        },
+        "courses": [
+            {
+                "name": "Roosevelt Golf Course",
+                "bookingUrl": "https://rc.foreupsoftware.com/index.php/booking/index/6285",
+                "courseId": "82",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "6285"
+    },
+    {
+        "name": "Davis Park Golf Course",
+        "slug": "davis-park-golf-course",
+        "software": "foreUp",
+        "website": "https://www.davisparkutah.com/",
+        "locationData": {
+            "latitude": 41.025794,
+            "longitude": -111.915334,
+            "address": "1074 E Nichols Rd",
+            "city": "Fruit Heights",
+            "state": "Utah",
+            "postalCode": "84037",
+            "county": "Davis County"
+        },
+        "courses": [
+            {
+                "name": "Davis Park Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/19500/1757",
+                "courseId": "1757",
+                "bookingWindow": 3
+            }
+        ],
+        "clubId": "19500"
+    },
+    {
+        "name": "Canyon Breeze Golf Course",
+        "slug": "canyon-breeze-golf-course",
+        "software": "foreUp",
+        "website": "https://canyonbreezegolfcourse.com/",
+        "locationData": {
+            "latitude": 38.281864,
+            "longitude": -112.596404,
+            "address": "E Canyon Rd",
+            "city": "Beaver",
+            "state": "Utah",
+            "postalCode": "84713",
+            "county": "Beaver County"
+        },
+        "courses": [
+            {
+                "name": "Canyon Breeze Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/21251/7447",
+                "courseId": "7447",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "21251"
+    },
+    {
+        "name": "Valley View Golf Course",
+        "slug": "valley-view-golf-course-utah",
+        "software": "foreUp",
+        "website": "https://www.valleyviewutah.com/",
+        "locationData": {
+            "latitude": 41.0601442,
+            "longitude": -112.0128456,
+            "address": "2501 E Gentile St",
+            "city": "Layton",
+            "state": "Utah",
+            "postalCode": "84041",
+            "county": "Davis County"
+        },
+        "courses": [
+            {
+                "name": "Valley View Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/index/19501",
+                "courseId": "1759",
+                "bookingWindow": 3
+            }
+        ],
+        "clubId": "19501"
+    },
+    {
+        "name": "Sun Hills Golf Course",
+        "slug": "sun-hills-golf-course",
+        "software": "foreUp",
+        "website": "https://www.sunhillsgolf.com/new_account/",
+        "locationData": {
+            "latitude": 41.10153,
+            "longitude": -111.944633,
+            "address": "3185 N Hills Dr",
+            "city": "Layton",
+            "state": "Utah",
+            "postalCode": "84041",
+            "county": "Davis County"
+        },
+        "courses": [
+            {
+                "name": "Sun Hills Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/18895/578",
+                "courseId": "578",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "18895"
+    },
+    {
+        "name": "Glen Eagle Golf Club",
+        "slug": "glen-eagle-golf-club-utah",
+        "software": "foreUp",
+        "website": "http://www.golfgleneagle.com",
+        "locationData": {
+            "latitude": 41.089221,
+            "longitude": -112.08619,
+            "address": "3176 W 1700 S",
+            "city": "Syracuse",
+            "state": "Utah",
+            "postalCode": "84075",
+            "county": "Davis County"
+        },
+        "courses": [
+            {
+                "name": "Glen Eagle Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/20940/6276",
+                "courseId": "6276",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "20940"
+    },
+    {
+        "clubId": "1078",
+        "name": "Eagle Lake Golf Course",
+        "slug": "eagle-lake-golf-course",
+        "software": "teeSnap",
+        "locationData": {
+            "latitude": 41.168929,
+            "longitude": -112.049778,
+            "address": "2885 W 5200 S",
+            "city": "Roy",
+            "state": "Utah",
+            "postalCode": "84067",
+            "county": "Weber County"
+        },
+        "website": "https://eaglelake-golf.com/",
+        "courses": [
+            {
+                "courseId": "1078",
+                "name": "Eagle Lake Golf Course",
+                "bookingUrl": "https://eaglelakegolf.teesnap.net/",
+                "numOfHoles": 18,
+                "bookingWindow": 14
+            }
+        ]
+    },
+    {
+        "name": "Mount Ogden Golf Course",
+        "slug": "mount-ogden-golf-course",
+        "software": "foreUp",
+        "website": "https://www.ogdencity.com/facilities/facility/details/Mount-Ogden-Golf-Course-4",
+        "locationData": {
+            "latitude": 41.210512,
+            "longitude": -111.9375,
+            "address": "1787 Constitution Way",
+            "city": "Ogden",
+            "state": "Utah",
+            "postalCode": "84403",
+            "county": "Weber County"
+        },
+        "courses": [
+            {
+                "name": "Mt. Ogden Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/index/19196",
+                "courseId": "1259",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "19196"
+    },
+    {
+        "name": "El Monte Golf Course",
+        "slug": "el-monte-golf-course",
+        "software": "foreUp",
+        "website": "https://www.ogdencity.com/1690/El-Monte",
+        "locationData": {
+            "latitude": 41.232346,
+            "longitude": -111.947144,
+            "address": "1300 Valley Dr",
+            "city": "Ogden",
+            "state": "Utah",
+            "postalCode": "84401",
+            "county": "Weber County"
+        },
+        "courses": [
+            {
+                "name": "El Monte Golf Course",
+                "bookingUrl": "https://www.foreupsoftware.com/index.php/booking/index/19197",
+                "courseId": "1258",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "19197"
+    },
+    {
+        "name": "Mulligans Golf ",
+        "slug": "mulligans-golf--2",
+        "software": "foreUp",
+        "website": "http://www.mulligans-south.com",
+        "locationData": {
+            "latitude": 41.267446,
+            "longitude": -112.0223,
+            "address": "692 W South Jordan Pkwy",
+            "city": "Riverton",
+            "state": "Utah",
+            "postalCode": "84095",
+            "county": "Salt Lake County"
+        },
+        "courses": [
+            {
+                "name": "Mulligans Golf & Games",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/21630/8401",
+                "courseId": "8401",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "21630"
+    },
+    {
+        "name": "Wolf Creek Golf Resort",
+        "slug": "wolf-creek-golf-resort-utah",
+        "software": "foreUp",
+        "website": "https://wolfcreekresort.com/golf-rates/",
+        "locationData": {
+            "latitude": 41.325566,
+            "longitude": -111.826819,
+            "address": "3900 N Wolf Creek Dr",
+            "city": "Eden",
+            "state": "Utah",
+            "postalCode": "84310",
+            "county": "Weber County"
+        },
+        "courses": [
+            {
+                "name": "Wolf Creek Utah, LLC",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/18945/756",
+                "courseId": "756",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "18945"
+    },
+    {
+        "clubId": "655e7dd0-b2c2-48e8-87d4-1c4d1d2bb8aa",
+        "name": "The Barn Golf Club",
+        "slug": "the-barn-golf-club",
+        "software": "golfPay",
+        "locationData": {
+            "latitude": 41.313462,
+            "longitude": -111.983828,
+            "address": "305 W Pleasant View Dr",
+            "city": "Pleasant View",
+            "state": "Utah",
+            "postalCode": "84414",
+            "county": "Weber County"
+        },
+        "website": "https://golfpay.co/course/the-barn-golf-club-ogden-ut-84414",
+        "courses": [
+            {
+                "courseId": "dd43fc6c-6e42-4bd4-b3af-2b9a36270706",
+                "name": "The Barn ",
+                "bookingUrl": "https://www.chronogolf.com/club/the-barn-golf-club",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "name": "Dinaland Golf Course",
+        "slug": "dinaland-golf-course",
+        "software": "foreUp",
+        "website": "https://www.dinalandgolf.com/",
+        "locationData": {
+            "latitude": 40.446323,
+            "longitude": -109.490239,
+            "address": "675 S 2000 E",
+            "city": "Vernal",
+            "state": "Utah",
+            "postalCode": "84078",
+            "county": "Uintah County"
+        },
+        "courses": [
+            {
+                "name": "Dinaland Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/19506/1826",
+                "courseId": "1826",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "19506"
+    },
+    {
+        "name": "Eagle Mountain Golf Course",
+        "slug": "eagle-mountain-golf-course-utah",
+        "software": "foreUp",
+        "website": "http://www.eaglemountaingc.com",
+        "locationData": {
+            "latitude": 41.495602,
+            "longitude": -112.004379,
+            "address": "960 E 700 S",
+            "city": "Brigham City",
+            "state": "Utah",
+            "postalCode": "84302",
+            "county": "Box Elder County"
+        },
+        "courses": [
+            {
+                "name": "Eagle Mountain Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/19943/3033",
+                "courseId": "3033",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "19943"
+    },
+    {
+        "name": "Logan River Golf Course",
+        "slug": "logan-river-golf-course",
+        "software": "foreUp",
+        "website": "http://theriver.loganutah.org",
+        "locationData": {
+            "latitude": 41.713239,
+            "longitude": -111.848653,
+            "address": "550 W 1000 S",
+            "city": "Logan",
+            "state": "Utah",
+            "postalCode": "84321",
+            "county": "Cache County"
+        },
+        "courses": [
+            {
+                "name": "Logan River Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/index/19035",
+                "courseId": "799",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "19035"
+    },
+    {
+        "clubId": "dea9fb55-d51f-4c47-9868-7e3f64fb3075",
+        "name": "Birch Creek Golf Course",
+        "slug": "birch-creek-golf-course",
+        "software": "courseProvided",
+        "locationData": {
+            "latitude": 41.838605,
+            "longitude": -111.819077,
+            "address": "550 E 100 N",
+            "city": "Smithfield",
+            "state": "Utah",
+            "postalCode": "84335",
+            "county": "Cache County"
+        },
+        "website": "https://www.golfrev.com/go/tee_times/?htc=370&courseid=3719&r=1",
+        "courses": [
+            {
+                "courseId": "072dd5ff-62ae-4672-aa61-03dc434ec238",
+                "name": "Birch Creek",
+                "bookingUrl": "https://www.chronogolf.com/club/birch-creek-golf-club-utah",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "name": "Bear Lake Golf Course",
+        "slug": "bear-lake-golf-course",
+        "software": "foreUp",
+        "website": "https://bearlakegolfcourse.com/",
+        "locationData": {
+            "latitude": 41.908104,
+            "longitude": -111.386067,
+            "address": "Bear Lake Blvd",
+            "city": "Garden City",
+            "state": "Utah",
+            "postalCode": "84028",
+            "county": "Rich County"
+        },
+        "courses": [
+            {
+                "name": "Bear Lake Golf Course",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/index/18905",
+                "courseId": "609",
+                "bookingWindow": 7
+            }
+        ],
+        "clubId": "18905"
+    },
+    {
+        "clubId": "f783669f-6209-4cbe-bbaf-19efa8ddf77f",
+        "name": "The Hideout",
+        "slug": "the-hideout-utah",
+        "software": "teeItUp",
+        "locationData": {
+            "latitude": 37.86451,
+            "longitude": -109.343005,
+            "address": "549 S Main",
+            "city": "Monticello",
+            "state": "Utah",
+            "postalCode": "84535",
+            "county": "San Juan County"
+        },
+        "website": "https://hideout-golf-club.book.teeitup.com",
+        "courses": [
+            {
+                "courseId": "1cbc12c2-c64d-4fab-b4b2-f582372f4b25",
+                "name": "The Hideout",
+                "bookingUrl": "https://www.chronogolf.com/club/the-hideout-utah",
+                "bookingWindow": 14,
+                "numOfHoles": 18
+            }
+        ]
+    },
+    {
+        "name": "Coral Canyon Golf Course",
+        "slug": "coral-canyon-golf-course",
+        "software": "foreUp",
+        "website": "http://www.coralcanyongolf.com",
+        "locationData": {
+            "latitude": 37.041652,
+            "longitude": -113.075036,
+            "address": "1925 N Canyon Greens Dr",
+            "city": "Washington",
+            "state": "Utah",
+            "postalCode": "84780",
+            "county": "Washington County"
+        },
+        "courses": [
+            {
+                "name": "Coral Canyon Golf Club",
+                "bookingUrl": "https://foreupsoftware.com/index.php/booking/19614",
+                "courseId": "1933",
+                "bookingWindow": 90
+            }
+        ],
+        "clubId": "19614"
+    },
+    {
+        "clubId": 15402,
+        "name": "Green Spring Golf Course",
+        "slug": "green-spring-golf-course",
+        "software": "memberSports",
+        "locationData": {
+            "latitude": 37.139484,
+            "longitude": -113.525986,
+            "address": "588 North Green Spring Drive",
+            "address2": "",
+            "city": "Washington",
+            "state": "UT",
+            "postalCode": "84780",
+            "county": "Washington County"
+        },
+        "website": "greenspringgolfcourse.com/",
+        "courses": [
+            {
+                "courseId": 18913,
+                "name": "Green Spring",
+                "bookingWindow": 15,
+                "numOfHoles": 18,
+                "bookingUrl": "https://app.membersports.com/tee-times/15402/18913/0"
+            }
+        ]
+    },
+    {
+        "clubId": 15389,
+        "name": "Dixie Red Hills Golf Course",
+        "slug": "dixie-red-hills-golf-course",
+        "software": "memberSports",
+        "locationData": {
+            "latitude": 37.127964,
+            "longitude": -113.59711,
+            "address": "645 West 1250 North",
+            "address2": "",
+            "city": "St. George",
+            "state": "UT",
+            "postalCode": "84770",
+            "county": "Washington County"
+        },
+        "website": "sgcity.org/sportsandrecreation/golf/dixieredhillsgolfclub",
+        "courses": [
+            {
+                "courseId": 18899,
+                "name": "Dixie Red Hills",
+                "bookingWindow": 14,
+                "numOfHoles": 9,
+                "bookingUrl": "https://app.membersports.com/tee-times/15389/18899/0"
+            }
+        ]
+    },
+    {
+        "clubId": 15448,
+        "name": "St George Golf Club",
+        "slug": "st-george-golf-club--2",
+        "software": "memberSports",
+        "locationData": {
+            "latitude": 37.070942,
+            "longitude": -113.55464,
+            "address": "2190 South 1400 East",
+            "address2": "",
+            "city": "St. George",
+            "state": "UT",
+            "postalCode": "84790",
+            "county": "Washington County"
+        },
+        "website": "http://www.golfsgcity.org",
+        "courses": [
+            {
+                "courseId": 18971,
+                "name": "St. George",
+                "bookingWindow": 14,
+                "numOfHoles": 18,
+                "bookingUrl": "https://app.membersports.com/tee-times/15448/18971/0"
+            }
+        ]
+    },
+    {
+        "clubId": 15453,
+        "name": "Sunbrook Golf Club",
+        "slug": "sunbrook-golf-club",
+        "software": "memberSports",
+        "locationData": {
+            "latitude": 37.106277,
+            "longitude": -113.633736,
+            "address": "2366 West Sunbrook Drive",
+            "address2": "",
+            "city": "St. George",
+            "state": "UT",
+            "postalCode": "84770",
+            "county": "Washington County"
+        },
+        "website": "https://www.sgcity.org/sportsandrecreation/golf/sunbrookgolfclub",
+        "courses": [
+            {
+                "courseId": 20576,
+                "name": "Sunbrook",
+                "bookingWindow": 14,
+                "numOfHoles": 27,
+                "bookingUrl": "https://app.membersports.com/tee-times/15453/20576/0"
+            }
+        ]
+    },
+    {
+        "clubId": 15445,
+        "name": "South Gate Golf Club",
+        "slug": "south-gate-golf-club",
+        "software": "memberSports",
+        "locationData": {
+            "latitude": 37.07379,
+            "longitude": -113.59141,
+            "address": "1975 Tonaquint Drive",
+            "address2": "",
+            "city": "St. George",
+            "state": "UT",
+            "postalCode": "84770",
+            "county": "Washington County"
+        },
+        "website": "http://www.southgategc.com/",
+        "courses": [
+            {
+                "courseId": 18968,
+                "name": "Southgate",
+                "bookingWindow": 14,
+                "numOfHoles": 18,
+                "bookingUrl": "https://app.membersports.com/tee-times/15445/18968/0"
+            }
+        ]
+    },
+    {
+        "clubId": 15452,
+        "name": "Sun River Golf Club",
+        "slug": "sun-river-golf-club",
+        "software": "memberSports",
+        "locationData": {
+            "latitude": 37.0364,
+            "longitude": -113.61828,
+            "address": "4210 South Bluegrass Way",
+            "address2": "",
+            "city": "St. George",
+            "state": "UT",
+            "postalCode": "84790",
+            "county": "Washington County"
+        },
+        "website": "sunrivergolf.com",
+        "courses": [
+            {
+                "courseId": 18977,
+                "name": "Sun River Golf Club",
+                "bookingWindow": 30,
+                "numOfHoles": 18,
+                "bookingUrl": "https://app.membersports.com/tee-times/15452/18977/0"
+            }
+        ]
+    },
+    {
+        "name": "Sunset View Golf Club",
+        "slug": "sunset-view-golf-club",
+        "locationData": {
+            "latitude": 39.373005,
+            "longitude": -112.51894,
+            "address": "1800 N Highway 6",
+            "address2": "",
+            "city": "Delta",
+            "state": "UT",
+            "postalCode": "84624-7472"
+        },
+        "clubId": 16773,
+        "website": "https://www.sunsetviewgolfcourse.com/",
+        "software": "memberSports",
+        "courses": [
+            {
+                "courseId": 20538,
+                "name": "Sunset View Golf Course",
+                "bookingWindow": 7,
+                "numOfHoles": 18,
+                "bookingUrl": "https://app.membersports.com/tee-times/16773/20538/0"
+            }
+        ]
+    }
+]

@@ -1,0 +1,152 @@
+.loader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.search-filter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 4rem;
+    position: sticky;
+    top: 0;
+    background-color: var(--p-surface-0);
+    z-index: 1;
+    border-bottom: 1px solid var(--p-surface-200);
+    padding: 1rem 0;
+
+    .filters {
+        display: flex;
+        gap: 1.5rem;
+        width: 100%;
+        padding: 0 7rem;
+    }
+}
+
+.no-tee-times {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    font-size: 1.5rem;
+    color: var(--p-surface-500);
+    text-align: center;
+    padding: 2rem;
+}
+
+.tee-time-background {
+    height: 100%;
+    width: 100%;
+    background-color: var(--p-surface-100);
+
+    .tee-time-wrapper {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(35rem, 1fr));
+        grid-gap: 2rem;
+        padding: 2rem;
+        padding: 1.2rem 7rem;
+        width: 100%;
+    
+        .tee-time-card {
+            gap: 20px;
+            width: 100%;
+            height: 100%;
+            background-color: var(--p-surface-0);
+            border-radius: 5px;
+            box-shadow: var(--smallest-box-shadow);
+            padding: 1rem;
+            display: flex;
+            border: 1px solid var(--p-surface-200);
+            align-items: center;
+            position: relative;
+    
+            .names {
+                display: flex;
+                flex-direction: column;
+                width: 100%;
+    
+                .course-name {
+                    font-size: 1.3rem;
+                    font-weight: 600;
+                    color: var(--p-text-100);
+                }
+    
+                .facility-name {
+                    font-size: 1rem;
+                    color: var(--p-surface-500)
+                }
+    
+                .footer {
+                    display: flex;
+                    justify-content: center;
+                    margin-top: 1.1rem;
+    
+                    .book-button {
+                        width: 100%;
+                    }
+                }
+            }
+    
+            .info {
+                position: absolute;
+                right: 0;
+                top: 0;
+                display: flex;
+                gap: 0.3rem;
+                padding: 1.1rem;
+            }
+        }
+    }
+}
+
+:deep(.mobile) {
+    max-width: 9rem;
+}
+
+
+@media (max-width: 767px) {
+    .tee-time-background {
+        .tee-time-wrapper {
+            padding: 1rem;
+            grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+            grid-gap: 1rem;
+
+            .tee-time-card {
+                .names {
+                    .footer {
+                        .book-button {
+                            font-size: 1rem;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    .search-filter {
+        gap: 2.5rem;
+
+        .filters {
+            padding: 0 1rem;
+            width: 100%;
+            display: flex;
+        }
+    }
+
+    .mobile-time {
+        width: 100%;
+        margin-bottom: 1rem;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        .mobile-info {
+            display: flex;
+            gap: 0.3rem;
+        }
+    }
+}

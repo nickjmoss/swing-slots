@@ -1,0 +1,14 @@
+.course-selector {
+    overflow-y: auto;
+
+    .group-wrapper {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        
+    }
+
+    .disabled {
+        font-size: 12px;
+    }
+}

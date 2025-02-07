@@ -1,0 +1,16 @@
+# Use the official Node.js 18 Bullseye image as the base image
+FROM node:20-alpine
+
+WORKDIR /app
+
+COPY src/package.json src/yarn.lock ./src/
+
+COPY server/package.json server/yarn.lock ./server/
+
+RUN cd src && yarn install --frozen-lockfile
+
+COPY . .
+
+RUN cd server && yarn install --frozen-lockfile
+
+EXPOSE 6060 4000

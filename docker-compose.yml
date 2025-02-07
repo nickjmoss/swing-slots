@@ -1,0 +1,26 @@
+version: '3.8'
+services:
+    server:
+        image: swing-slots
+        stdin_open: true
+        tty: true
+        build:
+            dockerfile: Dockerfile.dev
+            context: .
+        command: yarn run start
+        working_dir: /app
+        environment:
+            NODE_ENV: development # Has to be passed into the Docker container in order to allow dev dependencies
+        ports:
+            - 4000:4000
+            - 6060:6060
+        volumes:
+            - ./server:/app/server
+            - ./src:/app/src
+            - /app/server/node_modules # Ensures server's node_modules are not overwritten
+            - /app/src/node_modules # Ensures src's node_modules are not overwritten
+        container_name: swing-slots
+
+volumes:
+    server_node_modules:
+    src_node_modules:

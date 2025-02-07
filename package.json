@@ -1,0 +1,31 @@
+{
+    "name": "swing-slots",
+    "version": "1.0.0",
+    "description": "Golf Tee Time Aggregator",
+    "scripts": {
+        "start": "yarn server & yarn frontend",
+        "start:dev": "cd server && npx pm2-runtime start ecosystem.config.js",
+        "start:prod": "cd server-build && npx pm2-runtime start ecosystem.config.js --env production",
+        "start:localprod": "bash localprod.sh",
+        "build": "yarn server:build && yarn frontend:build",
+        "build:test": "yarn server:build:test && yarn frontend:build:test",
+        "packages": "yarn server:packages && yarn frontend:packages",
+        "frontend": "cd src && yarn start",
+        "frontend:packages": "cd src && yarn",
+        "frontend:add": "cd src && yarn add",
+        "frontend:remove": "cd src && yarn remove",
+        "frontend:build": "cd src && yarn build",
+        "frontend:build:test": "cd src && yarn build:test",
+        "server": "cd server && yarn start",
+        "server:packages": "cd server && yarn",
+        "server:add": "cd server && yarn add",
+        "server:remove": "cd server && yarn remove",
+        "server:build": "cd server && yarn build",
+        "server:build:test": "cd server && yarn build:test",
+        "deploy": "fly deploy --ha=false"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {}
+}

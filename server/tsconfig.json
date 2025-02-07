@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"module": "CommonJS",
+		"rootDir": "./",
+		"strict": true,
+		"esModuleInterop": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true,
+		"declaration": false,
+		"baseUrl": ".",
+		"outDir": "../dist/server-build"
+	},
+	"include": [
+		"./**/*.ts"
+	],
+	"exclude": [
+		"node_modules"
+	]
+}

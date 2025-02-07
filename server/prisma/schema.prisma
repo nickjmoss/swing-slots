@@ -1,0 +1,58 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Club {
+  id            String        @id @default(uuid())
+  clubId        String        @unique @map("club_id")
+  name          String
+  software      String?
+  website       String?
+  slug          String        @unique
+  bookingWindow Int           @default(7) @map("booking_window")
+  courses       Course[]
+  locationData  LocationData?
+
+  @@map("club")
+}
+
+model Course {
+  id              String   @id @default(uuid())
+  courseId        String   @unique @map("course_id")
+  name            String
+  clubId          String   @map("club_id")
+  bookingUrl      String   @map("booking_url")
+  bookingClassIds String[] @map("booking_class_ids")
+
+  club Club @relation(fields: [clubId], references: [clubId])
+
+  @@map("course")
+}
+
+model LocationData {
+  id         String  @id @default(uuid())
+  clubId     String  @unique @map("club_id")
+  address    String
+  address2   String?
+  city       String
+  state      String
+  county     String
+  postalCode String  @map("postal_code")
+  latitude   Float
+  longitude  Float
+
+  club Club @relation(fields: [clubId], references: [clubId])
+
+  @@map("location_data")
+}

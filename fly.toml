@@ -1,0 +1,22 @@
+# fly.toml app configuration file generated for swing-slots on 2024-10-16T17:26:45Z
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'swing-slots'
+primary_region = 'den'
+
+[build]
+
+[http_service]
+internal_port = 4000
+force_https = true
+auto_stop_machines = 'stop'
+auto_start_machines = true
+min_machines_running = 0
+processes = ['app']
+
+[[vm]]
+memory = '256mb'
+cpu_kind = 'shared'
+cpus = 1
