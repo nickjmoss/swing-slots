@@ -24,11 +24,13 @@ const searchStore = useSearchStore();
                     v-if="searchStore.mobileActiveTab !== 'players'"
                     class="info"
                 >
-                    <span v-if="searchStore.players">{{
-                        searchStore.players === 1
-                            ? '1 player'
-                            : `${searchStore.players} players`
-                    }}</span>
+                    <span v-if="searchStore.players">
+                        {{
+                            searchStore.players === 1
+                                ? '1 player'
+                                : `${searchStore.players} players`
+                        }}
+                    </span>
                     <span v-else>Add Players</span>
                 </div>
             </div>

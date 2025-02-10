@@ -22,7 +22,9 @@ const toggleWhen = (event: Event) => {
         <div>
             <div class="header">When</div>
             <div v-if="!searchStore.date">Choose a date</div>
-            <div v-else>{{ new Date(searchStore.date).toDateString() }}</div>
+            <div v-else>
+                {{ new Date(searchStore.date).toDateString() }}
+            </div>
         </div>
         <Button
             v-if="searchStore.date"

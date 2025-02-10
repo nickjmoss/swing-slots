@@ -60,20 +60,24 @@ const searchStore = useSearchStore();
         <Listbox
             v-model="searchStore.clubs"
             :options="clubStore.getClubsByCounty"
-            optionLabel="name"
-            optionValue="slug"
-            optionGroupChildren="clubs"
-            optionGroupLabel="county"
-            :optionDisabled="
+            option-label="name"
+            option-value="slug"
+            option-group-children="clubs"
+            option-group-label="county"
+            :option-disabled="
                 (option: any) =>
                     searchStore.outsideBookingWindow(option.bookingWindow)
             "
             multiple
-            scrollHeight="20rem"
+            scroll-height="20rem"
             filter
             checkmark
-            filterPlaceholder="Search by course, city, or county"
-            :filterFields="['name', 'locationData.county', 'locationData.city']"
+            filter-placeholder="Search by course, city, or county"
+            :filter-fields="[
+                'name',
+                'locationData.county',
+                'locationData.city',
+            ]"
             :pt="{
                 root: {
                     style: {
@@ -134,7 +138,9 @@ const searchStore = useSearchStore();
                         days)
                     </div>
                 </div>
-                <div v-else>{{ slotProps.option.name }}</div>
+                <div v-else>
+                    {{ slotProps.option.name }}
+                </div>
             </template>
         </Listbox>
     </Panel>

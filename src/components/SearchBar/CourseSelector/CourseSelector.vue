@@ -55,20 +55,20 @@ const toggleWhere = (event: Event) => {
             <Listbox
                 v-model="searchStore.clubs"
                 :options="clubStore.getClubsByCounty"
-                optionLabel="name"
-                optionValue="slug"
-                optionGroupChildren="clubs"
-                optionGroupLabel="county"
-                :optionDisabled="
+                option-label="name"
+                option-value="slug"
+                option-group-children="clubs"
+                option-group-label="county"
+                :option-disabled="
                     (option: any) =>
                         searchStore.outsideBookingWindow(option.bookingWindow)
                 "
                 multiple
-                scrollHeight="25rem"
+                scroll-height="25rem"
                 filter
                 checkmark
-                filterPlaceholder="Search by course, city, or county"
-                :filterFields="[
+                filter-placeholder="Search by course, city, or county"
+                :filter-fields="[
                     'name',
                     'locationData.county',
                     'locationData.city',
@@ -127,7 +127,9 @@ const toggleWhere = (event: Event) => {
                             days)
                         </div>
                     </div>
-                    <div v-else>{{ slotProps.option.name }}</div>
+                    <div v-else>
+                        {{ slotProps.option.name }}
+                    </div>
                 </template>
             </Listbox>
         </div>

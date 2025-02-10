@@ -23,9 +23,9 @@ const searchStore = useSearchStore();
             <div class="header">
                 <div>When</div>
                 <div v-if="searchStore.mobileActiveTab !== 'when'" class="info">
-                    <span v-if="searchStore.date">{{
-                        searchStore.date?.toDateString()
-                    }}</span>
+                    <span v-if="searchStore.date">
+                        {{ searchStore.date?.toDateString() }}
+                    </span>
                     <span v-else>Choose Date</span>
                 </div>
             </div>

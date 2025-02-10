@@ -13,7 +13,9 @@ const searchStore = useSearchStore();
         >
             <div class="input">
                 <div class="title">When</div>
-                <div class="value">{{ searchStore.date?.toDateString() }}</div>
+                <div class="value">
+                    {{ searchStore.date?.toDateString() }}
+                </div>
             </div>
             <Divider class="divider" layout="vertical" />
             <div class="input">

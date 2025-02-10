@@ -24,9 +24,9 @@ const searchStore = useSearchStore();
                     v-if="searchStore.mobileActiveTab !== 'holes'"
                     class="info"
                 >
-                    <span v-if="searchStore.holes"
-                        >{{ searchStore.holes }} holes</span
-                    >
+                    <span v-if="searchStore.holes">
+                        {{ searchStore.holes }} holes
+                    </span>
                     <span v-else>Choose Holes</span>
                 </div>
             </div>

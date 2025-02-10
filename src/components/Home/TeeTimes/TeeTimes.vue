@@ -91,7 +91,7 @@ const getPrice = (cartFee: number, greenFee: number) => {
                 />
             </template>
         </Dialog>
-        <SearchBar v-if="!appStore.isMobile" :isHomePage="false" />
+        <SearchBar v-if="!appStore.isMobile" :is-home-page="false" />
         <MobileSearchButton v-else />
         <MobileSearch />
         <div class="filters">
@@ -122,7 +122,7 @@ const getPrice = (cartFee: number, greenFee: number) => {
         </div>
     </div>
     <div v-if="searchStore.isSearching" class="loader">
-        <ProgressSpinner strokeWidth="3" />
+        <ProgressSpinner stroke-width="3" />
     </div>
     <div
         v-else-if="
@@ -190,7 +190,9 @@ const getPrice = (cartFee: number, greenFee: number) => {
                                 />
                             </div>
                         </div>
-                        <div class="course-name">{{ teeTime.courseName }}</div>
+                        <div class="course-name">
+                            {{ teeTime.courseName }}
+                        </div>
                         <div class="facility-name">
                             {{ teeTime.facilityName }}
                         </div>
