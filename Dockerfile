@@ -38,7 +38,7 @@ COPY --from=server-builder /app/dist/server-build ./server-build
 COPY --from=server-builder /app/server/node_modules ./server-build/node_modules
 COPY --from=server-builder /app/server/package.json ./server-build/package.json
 
-COPY package.json ./
+COPY package.json .npmrc ./
 
 EXPOSE 4000
 
