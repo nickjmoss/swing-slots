@@ -4,7 +4,7 @@ FROM node:20-alpine AS src-builder
 # Set the working directory inside the container
 WORKDIR /app/src
 
-COPY src/package.json src/yarn.lock ./
+COPY src/package.json src/yarn.lock src/.npmrc ./
 
 RUN yarn install --frozen-lockfile
 
@@ -17,7 +17,7 @@ FROM node:20-alpine AS server-builder
 
 WORKDIR /app/server
 
-COPY server/package.json server/yarn.lock ./
+COPY server/package.json server/yarn.lock server/.npmrc ./
 
 RUN yarn install --frozen-lockfile
 
@@ -38,7 +38,7 @@ COPY --from=server-builder /app/dist/server-build ./server-build
 COPY --from=server-builder /app/server/node_modules ./server-build/node_modules
 COPY --from=server-builder /app/server/package.json ./server-build/package.json
 
-COPY package.json .npmrc ./
+COPY package.json ./
 
 EXPOSE 4000
 
