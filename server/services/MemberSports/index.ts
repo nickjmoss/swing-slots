@@ -166,7 +166,7 @@ class MemberSports {
 
         // Filter out tee times that don't match the whole filter
         const filteredTeeTimes = teeTimes.filter((time) => {
-            if (filter.players && time.players !== filter.players) {
+            if (filter.players && time.players < filter.players) {
                 return false;
             }
 
