@@ -296,8 +296,18 @@ export const useSearchStore = defineStore('SearchStore', {
         setIsSearching(isSearching: boolean) {
             this.isSearching = isSearching;
         },
+        setUrlParams() {
+            const urlParams = this.getUrlParams();
+
+            window.history.pushState(
+                {},
+                '',
+                `${window.location.pathname}?${urlParams}`,
+            );
+        },
         async getTeeTimes() {
             this.setIsSearching(true);
+            this.setUrlParams();
             const { data } = await axios.get(
                 `/api/teeTimes?${this.getUrlParams()}`,
             );

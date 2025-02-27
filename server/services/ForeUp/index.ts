@@ -156,8 +156,10 @@ class ForeUp {
                             return false;
                         }
                     });
-                } catch (e) {
-                    console.log(`${facility.name}'s website does not work`);
+                } catch (e: any) {
+                    console.log(
+                        `${facility.name}'s website does not work. Error: ${e.message}`,
+                    );
                     facility.websiteBroken = true;
                 }
             }

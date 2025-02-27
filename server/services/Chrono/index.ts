@@ -50,7 +50,10 @@ class Chrono {
                 courseName: teeTime.course.name,
                 facilityName: course.club.name,
                 holes: teeTime.course.bookable_holes,
-                teeTime: dayjs.tz(teeTime.starts_at, 'America/Denver').format(),
+                teeTime: dayjs
+                    .utc(teeTime.starts_at)
+                    .tz('America/Denver')
+                    .format(),
                 greenFee: teeTime.default_price.green_fee,
                 players: teeTime.max_player_size,
             };
